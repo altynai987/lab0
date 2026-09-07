@@ -8,6 +8,13 @@ int main()
     std::cout << "Hello World!\n";
     int a;
     std::cin >> a;
+    if
+        (a !=0){
+        std::cout << 10 / a;
+    }
+    else {
+        std::cout << "error\n";
+    }
     return 0;
 }
 
